@@ -4,6 +4,6 @@
 
 ## ☯️ Object Detection
 
-|#|Name|Author|
+|#|Paper|Code|
 |:---:|:---:|:---:|
-|01|[Python Cookbook, 3rd Edition](https://github.com/Royal-526/Collection/blob/master/Python/Python%20Cookbook%2C%203rd%20Edition%20Recipes%20for%20Mastering%20Python%203%20by%20David%20Beazley%2C%20Brian%20K.%20Jones.pdf)|David Beazley, Brian K. Jones|
+|01|[YOLOv3: An Incremental Improvement](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CYOLOv3%E3%80%8D.pdf)|[[Keras](https://github.com/qqwweee/keras-yolo3)] [[TensorFlow](https://github.com/YunYang1994/tensorflow-yolov3)] [[PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)]|

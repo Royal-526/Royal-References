@@ -13,7 +13,7 @@
 
 ## ☯️ Datasets
 
-|#|Paper|Dataset Report|Code|Tag|
+|#|Dataset|Report|Code|Tag|
 |:---:|:---:|:---:|:---:|:---:|
 |01|[SIXray](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CSIXray%E3%80%8D.pdf)|[[Repo](https://github.com/MeioJane/SIXray)]|[[PyTorch](https://github.com/MeioJane/CHR)]|X-ray image set for object detection|
 |02|[NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research///nuswide/nuswide-civr2009.pdf)|[[Repo](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research///nuswide/NUS-WIDE.html)]| - |Web image set for image retrieval|

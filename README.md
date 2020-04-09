@@ -2,7 +2,7 @@
 |---|
 
 
-## 📚 Object Detection
+## ☯️ Object Detection
 
 |#|Name|Author|
 |:---:|:---:|:---:|

@@ -13,6 +13,6 @@
 
 ## ☯️ Datasets
 
-|#|Paper|Repo|Code|
+|#|Paper|Report|Code|
 |:---:|:---:|:---:|:---:|
-|01|[[SIXray](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CSIXray%E3%80%8D.pdf)] [[Repo](https://github.com/MeioJane/SIXray)]|[[PyTorch](https://github.com/MeioJane/CHR)]|
+|01|[[SIXray](https://github.com/ldkong1205/MSc-Dissertation/blob/master/PAPERS/%E3%80%8CSIXray%E3%80%8D.pdf)]|[[Repo](https://github.com/MeioJane/SIXray)]|[[PyTorch](https://github.com/MeioJane/CHR)]|

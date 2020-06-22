@@ -19,4 +19,5 @@
 |02|[NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research///nuswide/nuswide-civr2009.pdf)|[[Repo](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research///nuswide/NUS-WIDE.html)]| - |Web image set for image retrieval|
 |03|[Wikipedia](http://www.svcl.ucsd.edu/publications/journal/2014/xmodal/xmodal_tpami.pdf)|[[Repo](http://www.svcl.ucsd.edu/projects/crossmodal/)]| - |Dataset for cross-modal multimedia retrieval|
 |04|Pascal VOC '07|[[Repo](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)]| - |Image set for classification and detection|
+|05|[Penn-Fudan](https://www.cis.upenn.edu/~jshi/ped_html/)|[[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1558&context=cis_papers)]| - |Pedestrian detection and segmentation|
 
